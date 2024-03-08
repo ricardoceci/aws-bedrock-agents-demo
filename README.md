@@ -8,6 +8,6 @@ This is the source code needed
 ## Files
 
 - lambda_function => The lambda function code needed
-- openapi.txt => The OpenAPI 3.0 spec
+- openapi.json => The OpenAPI 3.0 spec
 
 
