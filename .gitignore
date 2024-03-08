@@ -1,1 +1,2 @@
 lambda_function/node_modules/*
+lambda_function/package-lock.json
